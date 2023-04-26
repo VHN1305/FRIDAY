@@ -1,2 +1,2 @@
-import pygame as pyri
+import pygame as py
 
